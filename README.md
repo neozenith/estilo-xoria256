@@ -18,4 +18,6 @@ colorschemes.
 ## Maintenance
 
 ```
+npm install
+npm start
 ```

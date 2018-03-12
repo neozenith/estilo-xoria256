@@ -1,0 +1,20 @@
+name: 'xoria256'
+version: '1.0.0'
+license: 'MIT'
+author: 'Josh Peak (derived from Dmitriy Y. Zotikov)'
+url: ''
+description: 'Modernised tooling for the classic Xoria256 pastel colorscheme'
+colorschemes:
+  - name: 'xoria256'
+    background: 'dark'
+    palette: 'xoria256'
+airline:
+  - name: 'xoria256'
+    palette: 'xoria256'
+    style: 'regular'
+    description: 'xoria256 Airline theme'
+lightline:
+  - name: 'xoria256'
+    palette: 'xoria256'
+    style: 'regular'
+    description: 'xoria256 Lightline theme'
