@@ -4,6 +4,7 @@
   "description": "Modernised tooling for the classic Xoria256 pastel colorscheme",
   "main": "index.js",
   "scripts": {
+		"start": "estilo render",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,7 +15,6 @@
     "vim",
     "colorscheme",
     "pastel",
-    "on",
     "dark"
   ],
   "author": "Josh Peak",
