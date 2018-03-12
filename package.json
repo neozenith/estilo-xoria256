@@ -1,0 +1,29 @@
+{
+  "name": "estilo-xoria256",
+  "version": "1.0.0",
+  "description": "Modernised tooling for the classic Xoria256 pastel colorscheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neozenith/estilo-xoria256.git"
+  },
+  "keywords": [
+    "vim",
+    "colorscheme",
+    "pastel",
+    "on",
+    "dark"
+  ],
+  "author": "Josh Peak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neozenith/estilo-xoria256/issues"
+  },
+  "homepage": "https://github.com/neozenith/estilo-xoria256#readme",
+  "devDependencies": {
+    "estilo": "^1.3.3"
+  }
+}
