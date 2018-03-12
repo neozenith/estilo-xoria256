@@ -15,6 +15,20 @@ colorscheme and the [Estilo](https://github.com/jacoborus/estilo) tooling
 by [`jacoborus`](https://github.com/jacoborus) to facilitate maintaining Vim
 colorschemes.
 
+## Usage
+
+```
+call plug#begin()
+Plug 'neozenith/estilo-xoria256'
+...
+call plug#end()
+
+syntax on
+colorscheme xoria256
+
+let g:lightline.colorscheme = 'xoria256'
+```
+
 ## Maintenance
 
 ```
