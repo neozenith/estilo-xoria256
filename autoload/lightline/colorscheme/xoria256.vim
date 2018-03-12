@@ -4,13 +4,13 @@
 " URL: 
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/13 07:10
+" Last Change: 2018/03/13 07:21
 " ============================================================
 
 let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {} }
 
-let s:p.normal.left = [[["#464632", 238], ["#afdf87", 150]], [["#282828", 235], ["#9faa00", 142]]]
-let s:p.normal.middle = [[["#afdf87", 150], ["#6a6b3f", 242]]]
+let s:p.normal.left = [[["#464632", 238], ["#afdf87", 150]], [["#282828", 235], ["#6a6b3f", 242]]]
+let s:p.normal.middle = [[["#afdf87", 150], ["#282828", 235]]]
 let s:p.normal.right = [[["#464632", 238], ["#afdf87", 150]], [["#282828", 235], ["#9faa00", 142]]]
 let s:p.normal.error = [[["#282828", 235], ["#df8787", 174]]]
 let s:p.normal.warning = [[["#282828", 235], ["#ffc24b", 215]]]

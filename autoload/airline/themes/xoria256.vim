@@ -4,7 +4,7 @@
 " URL:
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/13 07:10
+" Last Change: 2018/03/13 07:21
 " ============================================================
 
 let g:airline#themes#xoria256#palette = {}
