@@ -1,3 +1,4 @@
+###############################################################################
 # ORIGINAL XORIA
 # Comment: '#808080'
 # Constant: '#ffffaf'
@@ -8,6 +9,18 @@
 # Special: '#df8787'
 # Statement: '#87afdf'
 # Type: '#afafdf'
+###############################################################################
+# https://github.com/jacoborus/estilo/blob/master/docs/colorschemes.md
+# 
+# 
+# Symbol: 'foreground background buri'
+#                                ^^^^
+# buri:
+#  - [B]old
+#  - [U]nderline
+#  - [R]everse
+#  - [I]talics
+#
 ###############################################################################
 # reds
 red1: '#df8787'
