@@ -1,6 +1,6 @@
 # normal
 normal1: 'green4 green1' # 2 items
-normal2: 'green2 grey2' # 2 items
+normal2: 'green1 bg' # 2 items
 normal3: 'green1 grey2' # 1 item
 normal4: 'green4 green1' # 2 items
 normal5: 'bg green2' # 2 items
