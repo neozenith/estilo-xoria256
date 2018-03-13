@@ -4,12 +4,12 @@
   src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/logo.svg?sanitize=true"
 />
 
-# Xoria256 with Estilo
+# Xoria256
 
 ## Brief
 
 
-I'm in love with low blue light and pastel colorschemes for development so they 
+I'm in love with pastel colorschemes for development so they 
 capture enough contrast to easily convey information yet are gentle on my eyes
 whether in a full lit office or 4am on a train into work.
 
