@@ -10,7 +10,7 @@ I'm in love with pastel colorschemes for development so they
 capture enough contrast to easily convey information yet are gentle on my eyes
 whether in a full lit office or 4am on a train into work.
 
-[Xoria256](https://github.com/vim-scripts/xoria256.vim) was authored by 
+[Xoria256](https://github.com/vim-scripts/xoria256.vim) was originally authored by 
 Dmitriy Y. Zotikov (xio) <xio@ungrund.org>.
 
 Yet it wasn't up to date with the symbols I needed for Javascript and NodeJS
