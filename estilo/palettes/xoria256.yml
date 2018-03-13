@@ -25,37 +25,37 @@
 # https://www.w3schools.com/colors/colors_converter.asp
 # reds 0
 red1: '#df8787' # hsl(0, 58%, 70%);
-red2: '#ee7777' # hsl(0, 78%, 84%);
+red2: '#f6b6b6' # hsl(0, 78%, 84%);
 red3: '#623737' # hsl(0, 28%, 30%);
 red4: '#3c2a2a' # hsl(0, 17%, 20%);
 
 # oranges 27
 orange1: '#dfaf87' # hsl(27, 58%, 70%);
-orange2: '#eead77' # hsl(27, 78%, 84%);
+orange2: '#f6d3b6' # hsl(27, 78%, 84%);
 orange3: '#624a37' # hsl(27, 28%, 30%);
 orange4: '#3c322a' # hsl(27, 17%, 20%);
 
 # yellows 60
 yellow1: '#dfdf87' # hsl(60, 58%, 70%); 
-yellow2: '#eeee77' # hsl(60, 78%, 84%); 
+yellow2: '#f6f6b6' # hsl(60, 78%, 84%); 
 yellow3: '#626237' # hsl(60, 28%, 30%);
 yellow4: '#3c3c2a' # hsl(60, 17%, 20%);
 
 # greens 93
 green1: '#afdf87' # hsl(93, 58%, 70%);
-green2: '#adee77' # hsl(93, 78%, 84%);
+green2: '#d3f6b6' # hsl(93, 78%, 84%);
 green3: '#4a6237' # hsl(93, 28%, 30%);
 green4: '#323c2a' # hsl(93, 17%, 20%);
 
 # blues 201
 blue1: '#87afdf' # hsl(201, 58%, 70%);
-blue2: '#77c4ee' # hsl(201, 78%, 84%);
+blue2: '#b6e0f6' # hsl(201, 78%, 84%);
 blue3: '#375362' # hsl(201, 28%, 30%);
 blue4: '#2a363c' # hsl(201, 17%, 20%);
 
 # purples 240
 purple1: '#8787df' # hsl(240, 58%, 78%);
-purple2: '#b6b6f6' # hsl(240, 78%, 84%);
+purple2: '#c1b6f6' # hsl(240, 78%, 84%);
 purple3: '#373762' # hsl(240, 28%, 30%);
 purple4: '#2a2a3c' # hsl(240, 17%, 20%);
 
@@ -66,8 +66,6 @@ pink3: '#623762' # hsl(300, 28%, 30%);
 pink4: '#3c2a3c' # hsl(300, 17%, 20%);
 
 
-
-violet3: '#afafdf' # hsl(240, 43%, 78%);
 
 # whites
 highlighted: '#ffffff'
