@@ -1,10 +1,10 @@
+# Xoria256
+
 <img
   align="right"
   alt="Xoria SVG Logo"
   src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/logo.svg?sanitize=true"
 />
-
-# Xoria256
 
 ## Brief
 
