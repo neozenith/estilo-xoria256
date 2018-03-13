@@ -5,6 +5,11 @@
   alt="Xoria SVG Logo"
   src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/logo.svg?sanitize=true"
 />
+<img
+  align="right"
+  alt="estilo/palette/xora256.yml"
+  src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/palette.png?sanitize=true"
+/>
 
 I'm in love with pastel colorschemes for development so they 
 capture enough contrast to easily convey information yet are gentle on my eyes
@@ -19,11 +24,6 @@ colorscheme and the [Estilo](https://github.com/jacoborus/estilo) tooling
 by [`jacoborus`](https://github.com/jacoborus) to facilitate maintaining Vim
 colorschemes come to the rescue and give you this generation of the Xoria256 colorscheme.
 
-<img
-  align="right"
-  alt="estilo/palette/xora256.yml"
-  src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/palette.png?sanitize=true"
-/>
 
 ## Work In Progress
 
