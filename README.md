@@ -19,6 +19,12 @@ colorscheme and the [Estilo](https://github.com/jacoborus/estilo) tooling
 by [`jacoborus`](https://github.com/jacoborus) to facilitate maintaining Vim
 colorschemes come to the rescue and give you this generation of the Xoria256 colorscheme.
 
+<img
+  align="right"
+  alt="estilo/palette/xora256.yml"
+  src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/palette.png?sanitize=true"
+/>
+
 ## Work In Progress
 
 I am still working through matching the original xoria256 palette to the
