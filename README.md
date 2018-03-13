@@ -17,7 +17,17 @@ Yet it wasn't up to date with the symbols I needed for Javascript and NodeJS
 development and that is where [Tender](https://github.com/jacoborus/tender.vim) 
 colorscheme and the [Estilo](https://github.com/jacoborus/estilo) tooling
 by [`jacoborus`](https://github.com/jacoborus) to facilitate maintaining Vim
-colorschemes.
+colorschemes come to the rescue and give you this generation of the Xoria256 colorscheme.
+
+## Work In Progress
+
+I am still working through matching the original xoria256 palette to the
+symbols. For now I just replaced similar hues in `tender` with the xoria256 palette.
+
+Hence there are no sample screenshots just yet.
+
+Also I have baked in my brain the Powerline theme defaults for Lightline so
+Normal Mode status bar is green and Insert Mode status bar is blue.
 
 ## Usage
 
