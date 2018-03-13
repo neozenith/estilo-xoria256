@@ -1,0 +1,27 @@
+
+<svg 
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="1.1" 
+  width="480px" height="130px"
+>
+	<rect x="0" y="0" width="470" height="130" rx="10" fill="#444444" fill-opacity="0.1" />
+	<rect x="10" y="10" width="450" height="110" rx="5"  fill="#808080" fill-opacity="0.8" />
+	
+	
+	<line x1="30" y1="30" x2="90" y2="100" stroke-width="30" stroke-linecap="round" stroke="#afafdf" stroke-opacity="0.8" />
+	<line x1="90" y1="30" x2="30" y2="100" stroke-width="30" stroke-linecap="round" stroke="#df8787" stroke-opacity="0.8" />
+	
+	<circle cx="155" cy="65" r="50" fill="#afdf87" fill-opacity="0.8" />
+	<circle cx="155" cy="65" r="20" fill="#87afdf" fill-opacity="0.8" />
+	
+	<line x1="235" y1="30" x2="235" y2="100" stroke-width="30" stroke-linecap="round" stroke="#ffffaf" stroke-opacity="0.8" />
+	<line x1="235" y1="65" x2="270" y2="100" stroke-width="30" stroke-linecap="round" stroke="#ffffaf" stroke-opacity="0.8" />
+	<circle cx="250" cy="45" r="30" fill="#ffffaf" fill-opacity="0.8" />
+
+	<line x1="325" y1="30" x2="325" y2="100" stroke-width="30" stroke-linecap="round" stroke="#dfaf87" stroke-opacity="0.8" />
+	
+	<line x1="405" y1="30" x2="380" y2="100" stroke-width="30" stroke-linecap="round" stroke="#dfafdf" stroke-opacity="0.8" />
+	<line x1="405" y1="30" x2="430" y2="100" stroke-width="30" stroke-linecap="round" stroke="#dfafdf" stroke-opacity="0.8" />
+
+</svg>

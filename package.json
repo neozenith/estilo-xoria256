@@ -4,7 +4,7 @@
   "description": "Modernised tooling for the classic Xoria256 pastel colorscheme",
   "main": "index.js",
   "scripts": {
-		"start": "./node_modules/.bin/estilo render",
+    "start": "./node_modules/.bin/estilo render",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
