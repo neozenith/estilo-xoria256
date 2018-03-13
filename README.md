@@ -1,6 +1,12 @@
 # Xoria256 with Estilo
 
 ## Brief
+<img
+  align="right"
+  alt="Xoria SVG Logo"
+  src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/logo.svg?sanitize=true"
+/>
+
 
 I'm in love with low blue light and pastel colorschemes for development so they 
 capture enough contrast to easily convey information yet are gentle on my eyes
