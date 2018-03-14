@@ -69,7 +69,7 @@ pink4: '#3c2a3c' # hsl(300, 17%, 20%);
 
 # whites
 highlighted: '#ffffff'
-text: '#eeeeee'
+text: '#dddddd'
 gandalf: '#bbbbbb'
 # greys
 grey1: '#999999'
