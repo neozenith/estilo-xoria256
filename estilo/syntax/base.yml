@@ -28,21 +28,28 @@ PmenuSbar: 'yellow1 yellow1'
 PmenuThumb: 'yellow2 yellow2'
 Question: 'green1 -'
 Search: 'highlighted - ub'
-SpecialKey: 'grey3 -'
+SpecialKey: 'green2 -'
+
 SpellBad: 'red1'
 SpellLocal: 'yellow1'
 SpellCap: 'yellow2'
 SpellRare: 'blue2'
+
 StatusLine: 'darker grey2 b'
 StatusLineNC: 'grey1 grey3'
+
 TabLine: 'grey1 grey3'
 TabLineFill: '- grey3'
 TabLineSel: 'green1 - b'
+
 Title: 'blue1 - b'
-Visual: '- darkest'
-VisualNOS: '- darkest'
+
+Visual: '- yellow3'
+VisualNOS: '- yellow4'
+
 WarningMsg: 'red1 -'
 WildMenu: 'bg green1 b'
+
 Comment: 'grey2'
 Constant: 'purple2 -'
 String: 'orange1 -' # Constant
