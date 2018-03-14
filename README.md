@@ -65,7 +65,7 @@ The Vim output files are in:
 
 ```
 # NOTE: Estilo Globs files in the estilo/ directories so keep them clean.
-rm -rfv /**/.DS_Store
+rm -rfv ./**/.DS_Store
 
 npm install
 npm start
