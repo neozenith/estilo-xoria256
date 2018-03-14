@@ -1,15 +1,19 @@
 ColorColumn: '- red3'
 Conceal: ''
+
 Cursor: ''
 CursorIM: ''
 CursorColumn: '- shadow'
 CursorLine: '- shadow'
 CursorLineNr: 'blue2 - '
+
 Directory: 'blue1 -'
+
 DiffAdd: '- green4'
 DiffChange: '- blue4'
 DiffDelete: 'red1 red3'
 DiffText: '- - r'
+
 ErrorMsg: 'red1 - r'
 VertSplit: 'bg bg'
 Folded: 'grey2 purple4'
@@ -22,6 +26,7 @@ ModeMsg: ''
 MoreMsg: ''
 NonText: 'green2 -'
 Normal: 'text bg'
+
 PMenu: 'bg blue2'
 PMenuSel: 'bg green1'
 PmenuSbar: 'yellow1 yellow1'
@@ -51,36 +56,43 @@ WarningMsg: 'red1 -'
 WildMenu: 'bg green1 b'
 
 Comment: 'grey2'
+
 Constant: 'purple2 -'
 String: 'orange1 -' # Constant
 Character: 'orange2 -' # Constant
 Boolean: 'green1 -' # Constant
 Number: 'pink1 -' # Constant
 Float: 'pink1 -' # Constant
+
 Identifier: 'purple1 -'
 Function: 'blue1 -' # Identifier
+
 Statement: 'blue1 -'
 Conditional: 'green1 -' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
 Operator: 'red1 -' # Statement
-Keyword: 'red2 -' # Statement
+Keyword: 'red1 -' # Statement
 Exception: 'red1 -' # Statement
+
 PreProc: 'green1 -'
 Include: '' # PreProc
 Define: '' # PreProc
 Macro: '' # PreProc
 PreCondit: '' # PreProc
+
 Type: 'blue2 - '
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type
+
 Special: 'blue2 -'
 SpecialChar: '' # Special
 Tag: '' # Special
 Delimiter: '' # Special
 SpecialComment: '' # Special
 Debug: '' # Special
+
 Underlined: '- - u'
 Ignore: ''
 Error: 'text red1'
