@@ -68,11 +68,11 @@ Identifier: 'purple1 -'
 Function: 'blue1 -' # Identifier
 
 Statement: 'blue1 -'
-Conditional: 'green1 -' # Statement
+Conditional: '' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
 Operator: 'red1 -' # Statement
-Keyword: 'red1 -' # Statement
+Keyword: '' # Statement
 Exception: 'red1 -' # Statement
 
 PreProc: 'green1 -'
@@ -81,7 +81,7 @@ Define: '' # PreProc
 Macro: '' # PreProc
 PreCondit: '' # PreProc
 
-Type: 'blue2 - '
+Type: 'purple1 - '
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type

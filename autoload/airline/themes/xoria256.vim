@@ -4,7 +4,7 @@
 " URL:https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/14 16:42
+" Last Change: 2018/03/14 16:47
 " ============================================================
 
 let g:airline#themes#xoria256#palette = {}
