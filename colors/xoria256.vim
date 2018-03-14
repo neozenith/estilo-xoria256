@@ -4,7 +4,7 @@
 " URL: https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/14 11:25
+" Last Change: 2018/03/14 12:40
 " ===============================================================
 
 set background=dark
@@ -39,7 +39,7 @@ hi PmenuSbar guifg=#dfdf87 ctermfg=186 guibg=#dfdf87 ctermbg=186 gui=NONE cterm=
 hi PmenuThumb guifg=#f6f6b6 ctermfg=229 guibg=#f6f6b6 ctermbg=229 gui=NONE cterm=NONE
 hi Question guifg=#afdf87 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,bold cterm=underline,bold
-hi SpecialKey guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi SpecialKey guifg=#d3f6b6 ctermfg=193 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#dfdf87 ctermfg=186 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellCap guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
