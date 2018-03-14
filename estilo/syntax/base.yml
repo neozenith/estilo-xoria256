@@ -12,7 +12,7 @@ DiffDelete: 'red1 red3'
 DiffText: '- - r'
 ErrorMsg: 'red1 - r'
 VertSplit: 'bg bg'
-Folded: 'grey2 darker'
+Folded: 'grey2 purple4'
 FoldColumn: 'grey2 darker'
 SignColumn: '- shadow'
 IncSearch: 'bg highlighted'
@@ -44,12 +44,12 @@ VisualNOS: '- darkest'
 WarningMsg: 'red1 -'
 WildMenu: 'bg green1 b'
 Comment: 'grey2'
-Constant: 'yellow2 -'
-String: 'yellow1 -' # Constant
-Character: 'yellow2 -' # Constant
-Boolean: 'yellow2 -' # Constant
-Number: 'yellow2 -' # Constant
-Float: 'yellow2 -' # Constant
+Constant: 'purple2 -'
+String: 'orange1 -' # Constant
+Character: 'orange2 -' # Constant
+Boolean: 'green1 -' # Constant
+Number: 'pink1 -' # Constant
+Float: 'pink1 -' # Constant
 Identifier: 'blue1 -'
 Function: 'blue1 -' # Identifier
 Statement: 'blue1 -'

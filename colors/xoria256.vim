@@ -4,7 +4,7 @@
 " URL: https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/14 12:50
+" Last Change: 2018/03/14 16:06
 " ===============================================================
 
 set background=dark
@@ -25,7 +25,7 @@ hi DiffDelete guifg=#df8787 ctermfg=174 guibg=#623737 ctermbg=237 gui=NONE cterm
 hi DiffText guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ErrorMsg guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi VertSplit guifg=#282828 ctermfg=235 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
-hi Folded guifg=#666666 ctermfg=242 guibg=#1d1d1d ctermbg=234 gui=NONE cterm=NONE
+hi Folded guifg=#666666 ctermfg=242 guibg=#2a2a3c ctermbg=236 gui=NONE cterm=NONE
 hi FoldColumn guifg=#666666 ctermfg=242 guibg=#1d1d1d ctermbg=234 gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi IncSearch guifg=#282828 ctermfg=235 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
@@ -55,12 +55,12 @@ hi VisualNOS guifg=NONE ctermfg=NONE guibg=#040404 ctermbg=0 gui=NONE cterm=NONE
 hi WarningMsg guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#282828 ctermfg=235 guibg=#afdf87 ctermbg=150 gui=bold cterm=bold
 hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Constant guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#dfdf87 ctermfg=186 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Character guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Boolean guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Number guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Float guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Constant guifg=#b6b6f6 ctermfg=147 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#dfaf87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Character guifg=#f6d3b6 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Boolean guifg=#afdf87 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Number guifg=#dfafdf ctermfg=182 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Float guifg=#dfafdf ctermfg=182 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#87afdf ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#87afdf ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#87afdf ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
