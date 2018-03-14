@@ -50,14 +50,14 @@ Character: 'orange2 -' # Constant
 Boolean: 'green1 -' # Constant
 Number: 'pink1 -' # Constant
 Float: 'pink1 -' # Constant
-Identifier: 'blue1 -'
+Identifier: 'purple1 -'
 Function: 'blue1 -' # Identifier
 Statement: 'blue1 -'
 Conditional: 'green1 -' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
 Operator: 'red1 -' # Statement
-Keyword: '' # Statement
+Keyword: 'red2 -' # Statement
 Exception: 'red1 -' # Statement
 PreProc: 'green1 -'
 Include: '' # PreProc
