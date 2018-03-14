@@ -4,7 +4,7 @@
 " URL: https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/14 12:40
+" Last Change: 2018/03/14 12:50
 " ===============================================================
 
 set background=dark
@@ -31,7 +31,7 @@ hi SignColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=N
 hi IncSearch guifg=#282828 ctermfg=235 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
 hi LineNr guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi NonText guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NonText guifg=#d3f6b6 ctermfg=193 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#eeeeee ctermfg=255 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi PMenu guifg=#282828 ctermfg=235 guibg=#b6e0f6 ctermbg=153 gui=NONE cterm=NONE
 hi PMenuSel guifg=#282828 ctermfg=235 guibg=#afdf87 ctermbg=150 gui=NONE cterm=NONE
@@ -39,7 +39,7 @@ hi PmenuSbar guifg=#dfdf87 ctermfg=186 guibg=#dfdf87 ctermbg=186 gui=NONE cterm=
 hi PmenuThumb guifg=#f6f6b6 ctermfg=229 guibg=#f6f6b6 ctermbg=229 gui=NONE cterm=NONE
 hi Question guifg=#afdf87 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,bold cterm=underline,bold
-hi SpecialKey guifg=#d3f6b6 ctermfg=193 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi SpecialKey guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#dfdf87 ctermfg=186 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellCap guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
