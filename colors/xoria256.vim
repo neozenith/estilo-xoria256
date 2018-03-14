@@ -4,7 +4,7 @@
 " URL: https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/14 11:24
+" Last Change: 2018/03/14 11:25
 " ===============================================================
 
 set background=dark
@@ -14,7 +14,7 @@ if exists("syntax_on")
 endif
 let g:colors_name="xoria256"
 
-hi ColorColumn guifg=NONE ctermfg=NONE guibg=#f6b6b6 ctermbg=217 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#623737 ctermbg=237 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#b6e0f6 ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
