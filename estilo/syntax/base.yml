@@ -55,7 +55,7 @@ VisualNOS: '- yellow4'
 WarningMsg: 'red1 -'
 WildMenu: 'bg green1 b'
 
-Comment: 'grey2'
+Comment: 'grey2 - i'
 
 Constant: 'purple2 -'
 String: 'orange1 -' # Constant
