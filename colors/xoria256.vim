@@ -4,7 +4,7 @@
 " URL: https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/16 11:54
+" Last Change: 2018/03/16 11:58
 " ===============================================================
 
 set background=dark
@@ -67,7 +67,7 @@ hi Statement guifg=#87afdf ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi Operator guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Exception guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#afdf87 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Type guifg=#a6a6e7 ctermfg=146 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Type guifg=#a6a6e7 ctermfg=146 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Special guifg=#b6e0f6 ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Underlined guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi Error guifg=#dddddd ctermfg=253 guibg=#df8787 ctermbg=174 gui=NONE cterm=NONE

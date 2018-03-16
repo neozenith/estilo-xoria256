@@ -81,7 +81,7 @@ Define: '' # PreProc
 Macro: '' # PreProc
 PreCondit: '' # PreProc
 
-Type: 'purple1 - '
+Type: 'purple1 - i'
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type
