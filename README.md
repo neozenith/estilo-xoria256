@@ -70,3 +70,21 @@ rm -rfv ./**/.DS_Store
 npm install
 npm start
 ```
+
+## Useful
+
+Add the following to your `.vimrc` to inspect what syntax element a word is
+defined as.
+
+```
+" Show syntax highlighting groups for word under cursor
+function! <SID>SynStack()
+  if !exists("*synstack")
+    return
+  endif
+  echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+endfunc
+
+" Map leader function to call Syntax Inspector
+nmap <Leader>si :call <SID>SynStack()<CR>
+```
