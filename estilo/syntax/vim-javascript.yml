@@ -105,7 +105,7 @@ jsRestExpression: '' # jsFuncArgs
 jsSwitchColon: '' # Noise
 jsClassMethodType: '' # Type
 jsObjectMethodType: '' # Type
-jsClassDefinition: '. . i' # jsFuncName
+jsClassDefinition: 'pink2 . i' # jsFuncName
 jsDestructuringBraces: '' # Noise
 jsDestructuringProperty: '' # jsFuncArgs
 jsDestructuringAssignment: '' # jsObjectKey
