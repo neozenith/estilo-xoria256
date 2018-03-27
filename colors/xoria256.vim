@@ -4,7 +4,7 @@
 " URL: https://github.com/neozenith/estilo-xoria256.git
 " Author: Josh Peak (derived from Dmitriy Y. Zotikov)
 " License: MIT
-" Last Change: 2018/03/16 12:19
+" Last Change: 2018/03/27 12:19
 " ===============================================================
 
 set background=dark
@@ -24,17 +24,17 @@ hi DiffChange guifg=NONE ctermfg=NONE guibg=#2a363c ctermbg=237 gui=NONE cterm=N
 hi DiffDelete guifg=#df8787 ctermfg=174 guibg=#623737 ctermbg=237 gui=NONE cterm=NONE
 hi DiffText guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ErrorMsg guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
-hi VertSplit guifg=#202020 ctermfg=234 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE
+hi VertSplit guifg=#101010 ctermfg=233 guibg=#101010 ctermbg=233 gui=NONE cterm=NONE
 hi Folded guifg=#666666 ctermfg=242 guibg=#2a2a3c ctermbg=236 gui=NONE cterm=NONE
-hi FoldColumn guifg=#666666 ctermfg=242 guibg=#101010 ctermbg=233 gui=NONE cterm=NONE
+hi FoldColumn guifg=#666666 ctermfg=242 guibg=#080808 ctermbg=232 gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
-hi IncSearch guifg=#202020 ctermfg=234 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
+hi IncSearch guifg=#101010 ctermfg=233 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
 hi LineNr guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi NonText guifg=#d3f6b6 ctermfg=193 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Normal guifg=#dddddd ctermfg=253 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE
-hi PMenu guifg=#202020 ctermfg=234 guibg=#b6e0f6 ctermbg=153 gui=NONE cterm=NONE
-hi PMenuSel guifg=#202020 ctermfg=234 guibg=#afdf87 ctermbg=150 gui=NONE cterm=NONE
+hi Normal guifg=#dddddd ctermfg=253 guibg=#101010 ctermbg=233 gui=NONE cterm=NONE
+hi PMenu guifg=#101010 ctermfg=233 guibg=#b6e0f6 ctermbg=153 gui=NONE cterm=NONE
+hi PMenuSel guifg=#101010 ctermfg=233 guibg=#afdf87 ctermbg=150 gui=NONE cterm=NONE
 hi PmenuSbar guifg=#dfdf87 ctermfg=186 guibg=#dfdf87 ctermbg=186 gui=NONE cterm=NONE
 hi PmenuThumb guifg=#f6f6b6 ctermfg=229 guibg=#f6f6b6 ctermbg=229 gui=NONE cterm=NONE
 hi Question guifg=#afdf87 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -44,7 +44,7 @@ hi SpellBad guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellLocal guifg=#dfdf87 ctermfg=186 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellCap guifg=#f6f6b6 ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#b6e0f6 ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#101010 ctermfg=233 guibg=#666666 ctermbg=242 gui=bold cterm=bold
+hi StatusLine guifg=#080808 ctermfg=232 guibg=#666666 ctermbg=242 gui=bold cterm=bold
 hi StatusLineNC guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLine guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
@@ -53,7 +53,7 @@ hi Title guifg=#87afdf ctermfg=110 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi Visual guifg=NONE ctermfg=NONE guibg=#626237 ctermbg=241 gui=NONE cterm=NONE
 hi VisualNOS guifg=NONE ctermfg=NONE guibg=#3c3c2a ctermbg=237 gui=NONE cterm=NONE
 hi WarningMsg guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WildMenu guifg=#202020 ctermfg=234 guibg=#afdf87 ctermbg=150 gui=bold cterm=bold
+hi WildMenu guifg=#101010 ctermfg=233 guibg=#afdf87 ctermbg=150 gui=bold cterm=bold
 hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#b6b6f6 ctermfg=147 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#dfaf87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -225,9 +225,9 @@ hi yamlFlowString guifg=#dfdf87 ctermfg=186 guibg=NONE ctermbg=NONE gui=NONE cte
 hi yamlFlowStringDelimiter guifg=#dddddd ctermfg=253 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#df8787 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
-let g:terminal_color_foreground = "#202020"
+let g:terminal_color_foreground = "#101010"
 let g:terminal_color_background = "#dddddd"
-let g:terminal_color_0 = "#202020"
+let g:terminal_color_0 = "#101010"
 let g:terminal_color_1 = "#df8787"
 let g:terminal_color_2 = "#afdf87"
 let g:terminal_color_3 = "#f6f6b6"
@@ -235,7 +235,7 @@ let g:terminal_color_4 = "#87afdf"
 let g:terminal_color_5 = "#dfdf87"
 let g:terminal_color_6 = "#b6e0f6"
 let g:terminal_color_7 = "#dddddd"
-let g:terminal_color_8 = "#101010"
+let g:terminal_color_8 = "#080808"
 let g:terminal_color_9 = "#df8787"
 let g:terminal_color_10 = "#afdf87"
 let g:terminal_color_11 = "#f6f6b6"
