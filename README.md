@@ -16,7 +16,7 @@ Dmitriy Y. Zotikov (xio) <xio@ungrund.org>.
 <img
   align="right"
   alt="estilo/palette/xora256.yml"
-  src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/palette-vim.png?sanitize=true"
+  src="https://raw.githubusercontent.com/neozenith/estilo-xoria256/master/palette-vim.png"
 />
 
 
