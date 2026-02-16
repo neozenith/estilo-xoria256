@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/neozenith/estilo-xoria256#readme",
   "devDependencies": {
-    "estilo": "^0.15.0"
+    "estilo": "^2.1.3"
   }
 }
